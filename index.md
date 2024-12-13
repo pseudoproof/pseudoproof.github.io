@@ -4,12 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second year PhD student at the University of Michigan-Ann Arbor, advised by Paul
+Grubbs. My research interest is in cryptography and computer security, where I focus on
+building and using cryptographic primitives to solve real-world security problems. My current
+project focuses on applying zero-knowledge proofs to solve security challenges in managed
+networks.
 
+<!-- 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
@@ -20,4 +25,4 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

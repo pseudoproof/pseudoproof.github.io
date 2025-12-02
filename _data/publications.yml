@@ -1,5 +1,4 @@
 main:
-
   - title: Traceable Mixnets
     authors: Prashant Agrawal, Abhinav Nakarmi, Mahabir Prasad Jhanwar, Subodh Sharma and Subhashis Banerjee
     conference_short: PETS 2024
@@ -7,12 +6,12 @@ main:
     pdf: https://eprint.iacr.org/2023/1942
     image: ./assets/img/teaser_example.
 
-  - title: OpenVoting: Recovering from Failures in Dual Voting.
+  - title: OpenVoting
     authors: Prashant Agrawal, Kabir Tomer, Abhinav Nakarmi, Mahabir Prasad Jhanwar, Subodh Sharma, Subhashis Banerjee
     conference_short: E-VOTE-ID , 2023
     conference: E-VOTE-ID , 2023
     pdf: https://eprint.iacr.org/2023/1393
-  
+
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR

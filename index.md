@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at the University of Michigan-Ann Arbor, advised by [Paul Grubbs](https://web.eecs.umich.edu/~paulgrub/).
+I am a PhD Candidate at the University of Michigan-Ann Arbor, advised by [Paul Grubbs](https://web.eecs.umich.edu/~paulgrub/).
+
 My research interests lie in computer security and cryptography. I am particularly excited about 
-using cryptography to build secure computer systems. My current project focuses on applying 
-zero-knowledge proofs to solve security and privacy challenges.
+using cryptography to build secure computer systems. My current projects focus on applying 
+zero-knowledge proofs to solve security and privacy challenges. However, I am always 
+interested in exploring new topics in security and cryptography.
 
 <!-- 
 ## Research Interests
@@ -22,6 +24,7 @@ zero-knowledge proofs to solve security and privacy challenges.
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
+{% include_relative _includes/current.md %}
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->

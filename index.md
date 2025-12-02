@@ -7,7 +7,7 @@ layout: homepage
 I am a PhD student at the University of Michigan-Ann Arbor, advised by [Paul Grubbs](https://web.eecs.umich.edu/~paulgrub/).
 My research interests lie in computer security and cryptography. I am particularly excited about 
 using cryptography to build secure computer systems. My current project focuses on applying 
-zero-knowledge proofs to solve security and privacy challenges in large-scale networks.
+zero-knowledge proofs to solve security and privacy challenges.
 
 <!-- 
 ## Research Interests

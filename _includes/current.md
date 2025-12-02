@@ -3,7 +3,7 @@
 <div class="Current Research">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.current.main %}
 
 <li>
 <div class="pub-row">

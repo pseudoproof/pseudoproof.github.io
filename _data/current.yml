@@ -6,12 +6,12 @@ main:
   #   pdf: https://eprint.iacr.org/2023/1942
   #   # image: ./assets/img/teaser_example.
 
-  - title: 3PaaS: Privacy-Preserving Post-Compromise Security as a Service
+  - title: 3PaaS- Privacy-Preserving Post-Compromise Security as a Service
     authors: Cas Cremers, Abhinav Nakarmi, Aleksi Peltonen & Eyal Ronen
     conference_short: USENIX 2026
     conference: In submission - USENIX 2026
     
-  - title: NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models
+  - title: NoisePrints- Distortion-Free Watermarks for Authorship in Private Diffusion Models
     authors: Nir Goren, Oren Katzir, Abhinav Nakarmi, Eyal Ronen, Mahmood Sharif  & Or Patashnik
     conference_short: ICLR 2026
     conference: In submission - ICLR 2026

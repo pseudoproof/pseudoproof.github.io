@@ -1,6 +1,6 @@
 <h2 id="current-research" style="margin: 2px 0px -15px;">Current Research</h2>
 
-<div class="Current Research">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.current.main %}

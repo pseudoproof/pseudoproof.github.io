@@ -6,7 +6,7 @@ subtitle: nakarmi [at] umich [dot] edu
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 4957, Bob & Betty Beyster Building</p>

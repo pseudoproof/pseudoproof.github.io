@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research addresses safety challenges in LLM agents, with a focus on ensuring that autonomous AI systems remain aligned with what their users genuinely intend. 
+I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research addresses safety challenges in LLM agents from a systems perspective, focusing on how autonomous AI systems can be designed to remain aligned with what their users genuinely intend.
 
 Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security of real-world systems.
 

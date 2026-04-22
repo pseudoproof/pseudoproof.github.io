@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.engin.umich.edu'>University of Michigan, Ann Arbo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 4957, Bob & Betty Beyster Building</p>
@@ -27,5 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Computer Science & Engineering, where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research addresses safety challenges in LLM agents, with a focus on ensuring that autonomous AI systems remain aligned with what their users genuinely intend. Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security of real-world systems.
+I'm a PhD student in Computer Science & Engineering, where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research addresses safety challenges in LLM agents, with a focus on ensuring that autonomous AI systems remain aligned with what their users genuinely intend. 
+
+Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security of real-world systems.
 

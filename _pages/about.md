@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research addresses safety challenges in LLM agents, focusing on how autonomous AI systems can be designed to remain aligned with what their users genuinely intend.
+I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My current research aims to keep LLM agents faithful to user intent — preventing these systems from going rogue through prompt injection attacks or unintended behavior.
 
 Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security and verifiability of real-world computer systems.
 

@@ -9,6 +9,7 @@ profile:
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><img src="/assets/img/umich-logo.png" alt="University of Michigan" style="width: 80%; max-width: 180px; margin-bottom: 0.5rem;"></p>
     <p>Office 4957, Bob & Betty Beyster Building</p>
     <p>2260 Hayward St, Ann Arbor</p>
     <p>MI 48109, USA</p>

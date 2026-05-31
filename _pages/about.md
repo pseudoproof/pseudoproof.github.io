@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: '<img src="/assets/img/umich-logo-trim.png" alt="University of Michigan" style="height: 1.4em; vertical-align: -0.3em; margin-right: 0.5em;"> nakarmi [at] umich [dot] edu'
+subtitle: nakarmi [at] umich [dot] edu
 
 profile:
   align: right
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p style="text-align: center;"><img src="/assets/img/umich-logo-trim.png" alt="University of Michigan" style="width: 85%; max-width: 200px; margin: 0.5rem 0;"></p>
     <p>Office 4957, Bob & Betty Beyster Building</p>
     <p>2260 Hayward St, Ann Arbor</p>
     <p>MI 48109, USA</p>

@@ -2,20 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: nakarmi [at] umich [dot] edu
+subtitle: '<img src="/assets/img/umich-logo-trim.png" alt="University of Michigan" style="height: 1.4em; vertical-align: -0.3em; margin-right: 0.5em;"> nakarmi [at] umich [dot] edu'
 
 profile:
   align: right
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><img src="/assets/img/umich-logo.png" alt="University of Michigan" style="width: 80%; max-width: 180px; margin-bottom: 0.5rem;"></p>
     <p>Office 4957, Bob & Betty Beyster Building</p>
     <p>2260 Hayward St, Ann Arbor</p>
     <p>MI 48109, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -28,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My current research focuses on AI safety. Currently, I am interested in developing security frameworks that enforce principled information and control flow in LLM-based agents. My goal is to enable LLM agents to operate autonomously in sensitive domains without leaking data, violating trust boundaries, or executing unintended actions. I am also developing agentic frameworks to probe and strengthen ML-based security systems.
+I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My current research focuses on AI safety. Currently, I am interested in developing security frameworks that enforce principled information and control flow in LLM-based agents. My goal is to enable LLM agents to operate autonomously in sensitive domains without leaking data, violating trust boundaries, or executing unintended actions. I am also interested in developing agentic frameworks to probe and strengthen ML-based security systems.
 
 Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security and verifiability of real-world computer systems.
 

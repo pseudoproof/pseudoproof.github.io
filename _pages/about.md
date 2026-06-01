@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: nakarmi [at] umich [dot] edu
+
 
 profile:
   align: right
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 4957, Bob & Betty Beyster Building</p>
-    <p>2260 Hayward St, Ann Arbor</p>
-    <p>MI 48109, USA</p>
+    <p>Email : nakarmi [at] umich [dot] edu </p>
+    <p>Office: 4957 Beyster </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

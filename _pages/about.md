@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research focuses on making LLM-based AI agents safe for autonomous deployment and on using them to strengthen security defenses.
 
-To this end, I am interested in two research directions. First, developing security frameworks that enforce principled information and control flow in LLM-based agents — preventing data leakage, trust violations, and unintended actions in sensitive domains. Second, developing agentic frameworks to probe and strengthen ML-based security systems.
+To this end, I am interested in two research directions. First, developing security frameworks that enforce principled information and control flow in LLM-based agents — preventing data leakage and unintended actions in sensitive domains. Second, developing agentic frameworks to probe and strengthen ML-based security systems.
 
 Previously, I built and applied Zero-Knowledge Proofs (ZKPs) to strengthen the security and verifiability of real-world computer systems.
 

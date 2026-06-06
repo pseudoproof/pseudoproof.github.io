@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research focuses on making LLM-based AI agents safe for autonomous deployment and on using them to strengthen security systems.
+I'm a PhD student in Computer Science & Engineering at the [University of Michigan](https://cse.engin.umich.edu), where I'm fortunate to be advised by [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) and [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/). My research focuses on making AI agents safe for autonomous deployment and on using them to strengthen security systems.
 
 To this end, I am interested in two research directions. First, developing security frameworks that enforce principled information and control flow in LLM-based agents — preventing data leakage and unintended actions in sensitive domains. Second, developing agentic frameworks to probe and improve ML-based secuirty systems.
 
